@@ -7,12 +7,6 @@
       "modelo": "modelo1"
     },
     {
-      "id": 2,
-      "conteudo": "Top nada",
-      "autoria": "Aquinaopoliciamilitar",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
       "conteudo": "Top oque rapaiz",
       "autoria": "AquinaoPM",
@@ -35,30 +29,6 @@
       "autoria": "dadwadwadawdawd",
       "modelo": "modelo1",
       "id": 6
-    },
-    {
-      "conteudo": "awdadadsadwa",
-      "autoria": "dadwadwadawdawd",
-      "modelo": "modelo1",
-      "id": 7
-    },
-    {
-      "conteudo": "awdadadsadwa",
-      "autoria": "dadwadwadawdawd",
-      "modelo": "modelo1",
-      "id": 8
-    },
-    {
-      "conteudo": "awdadadsadwa",
-      "autoria": "dadwadwadawdawd",
-      "modelo": "modelo1",
-      "id": 9
-    },
-    {
-      "conteudo": "Ghost Recon Breakpoint",
-      "autoria": "É muito top!",
-      "modelo": "modelo1",
-      "id": 10
     }
   ]
 }
